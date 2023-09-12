@@ -5,9 +5,10 @@ Mencoba Fitur-fitur (clone, pull/fetch/merge, push, commit, add)
 <h2 align="center"> Clone</h2>
 
 Git clone adalah command line utility yang digunakan untuk menargetkan repositori yang ada dan membuat clone, atau salinan repository target. perintah untuk mengkloning repository adalah : 
-<h2 align="center">[![Screenshot-2023-09-12-174029.png](https://i.postimg.cc/FRwDWGq8/Screenshot-2023-09-12-174029.png)](https://postimg.cc/S276jLmf)
+<align="center"> [![Screenshot-2023-09-12-174029.png](https://i.postimg.cc/FRwDWGq8/Screenshot-2023-09-12-174029.png)](https://postimg.cc/S276jLmf)
 
-Hasil Eksperimen : [![Screenshot-2023-09-12-125359.png](https://i.postimg.cc/904szD55/Screenshot-2023-09-12-125359.png)](https://postimg.cc/gLWgTk2N)
+Hasil Eksperimen :
+ [![Screenshot-2023-09-12-125359.png](https://i.postimg.cc/904szD55/Screenshot-2023-09-12-125359.png)](https://postimg.cc/gLWgTk2N)
 
 <h2 align="center"> PULL</h2>
 
